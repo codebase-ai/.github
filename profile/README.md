@@ -1,7 +1,7 @@
 # Codebase AI
 In a world full of possibilities, a software developer finds comfort in her home office, surrounded by her critters. Using AI that understands her entire codebase, she strives to boost her productivity, impress her boss, and safeguard her treasured work-from-home arrangement, avoiding the return to the office she dreads.
 
-![Cat Lady](images/cat-lady.png)
+![Cat Lady](../images/cat-lady.png)
 
 ## Who
 Codebase AI is being developed by [Brendan](https://github.com/brendanmd1), [Ethan](https://github.com/ethand12), [Duff](https://github.com/ggduff) and [Bill](https://github.com/william-kerr).
