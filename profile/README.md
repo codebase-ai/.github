@@ -4,7 +4,7 @@ In a world full of possibilities, a software developer finds comfort in her home
 ![Cat Lady](https://raw.githubusercontent.com/codebase-ai/.github/main/images/cat-lady.png)
 
 ## Who
-Codebase AI is being developed by [Brendan](https://github.com/brendanmd1), [Ethan](https://github.com/ethand12), [Duff](https://github.com/ggduff) and [Bill](https://github.com/william-kerr).
+Codebase AI was started by [Brendan](https://github.com/brendanmd1), [Ethan](https://github.com/ethand12), [Duff](https://github.com/ggduff) and [Bill](https://github.com/william-kerr).
 
 ## What
 It's a powerful tool that enhances your coding experience by providing intelligent code suggestions based on your entire codebase.
